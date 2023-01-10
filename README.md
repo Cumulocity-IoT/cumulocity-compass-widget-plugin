@@ -1,4 +1,5 @@
-# Cumulocity widget plugin
+# Cumulocity widget plugin ![image](https://user-images.githubusercontent.com/89508319/211545879-ef79fd1c-801f-41de-bde9-7fa249d97910.png)
+
 
 This is the Cumulocity module federation plugin. Plugins can be developed like any Cumulocity application, but can be used at runtime by other applications. Therefore, they export an Angular module which can then be imported by any other application. The exports are defined in `package.json`:
 
