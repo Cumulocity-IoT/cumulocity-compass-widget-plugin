@@ -36,8 +36,6 @@ This is the Cumulocity module federation plugin created using c8ycli. This plugi
 ## Quickstart
 This guide will teach you how to add the widget in your existing or new dashboard.
 
-NOTE: This guide assumes that you have followed the [installation](https://github.com/SoftwareAG/cumulocity-runtime-widget-loader) instructions
-
 1. Open the Application Builder application from the app switcher (Next to your username in the top right)
 2. Add a new dashboard or navigate to an existing dashboard
 3. Click `Add Widget`
