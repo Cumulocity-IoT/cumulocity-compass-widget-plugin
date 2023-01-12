@@ -1,7 +1,7 @@
 {
   "name": "cumulocity-compass-widget-plugin",
   "version": "1.0.0-beta",
-  "description": "This is the Cumulocity module federation plugin. This widget plugin is designed to displays an animated compass direction based on the measurement data provided",
+  "description": " This Compass Widget is designed to display an animated compass direction based on the measurement data provided.",
   "scripts": {
     "start": "c8ycli server --env.beta=true",
     "build": "c8ycli build --env.mode=production",
@@ -53,10 +53,10 @@
   "c8y": {
     "application": {
       "name": "Cumulocity-Compass-Widget-Plugin",
-      "description": "Cumulocity-Compass-Widget-Plugin with module federation",
+      "description": "This Compass Widget is designed to display an animated compass direction based on the measurement data provided.",
       "contextPath": "compass-widget",
       "key": "compass-widget-application-key",
-      "globalTitle": "Cumulocity Compass Widget Plugin with Module Federation",
+      "globalTitle": "This Compass Widget is designed to display an animated compass direction based on the measurement data provided.",
       "tabsHorizontal": true,
       "isPackage": true,
       "noAppSwitcher": true,
@@ -67,12 +67,12 @@
           "name": "Cumulocity-Compass-Widget-Plugin",
           "module": "CompassWidgetModule",
           "path": "./widget/compass-widget.module",
-          "description": "This is the Cumulocity module federation plugin. This widget plugin is designed to displays an animated compass direction based on the measurement data provided"
+          "description": "This Compass Widget is designed to display an animated compass direction based on the measurement data provided."
         }
       ],
       "remotes": {
         "widget-plugin": [
-          "WidgetPluginModule"
+          "CompassWidgetModule"
         ]
       }
     },
