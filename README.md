@@ -22,12 +22,16 @@ This is the Cumulocity module federation plugin created using c8ycli. This plugi
 
 **Realtime:** Realtime direction updates from defined measurement
 
+## Prerequisite
+
+   Cumulocity c8ycli >=1016.x.x
+
 
 ## Installation
 
 ### Runtime Widget Deployment?
 
-* This widget supports runtime deployment. Download the [Runtime Binary](https://github.com/SoftwareAG/cumulocity-compass-widget/releases/download/v1.0.3/compass-widget-1.0.3.zip) and use application builder to install your runtime widget.
+* This widget supports runtime deployment. Download Runtime Binary and install via Administrations(Beta mode) --> Ecosystems --> Applications --> Packages.
 
 
 ## Quickstart
