@@ -7,7 +7,7 @@ This is the Cumulocity module federation plugin created using c8ycli. This plugi
 
 ## Please note that this plugin is in currently under BETA mode.
   
-### Please choose Smart Map release based on Cumulocity/Application builder version:
+### Please choose Compass Widget release based on Cumulocity/Application builder version:
 
 |APPLICATION BUILDER | CUMULOCITY | COMPASS WIDGET |
 |--------------------|------------|------------------|
