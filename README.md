@@ -1,4 +1,4 @@
-# Cumulocity widget plugin ![image](https://user-images.githubusercontent.com/89508319/211545879-ef79fd1c-801f-41de-bde9-7fa249d97910.png)
+# Cumulocity Widget Plugin ![image](https://user-images.githubusercontent.com/89508319/211545879-ef79fd1c-801f-41de-bde9-7fa249d97910.png)
 
 
 This is the Cumulocity module federation plugin created using c8ycli. This plugin can be used in Application Builder or Cockpit.The Compass Widget displays an animated compass direction based on the measurement data provided.
