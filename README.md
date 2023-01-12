@@ -1,8 +1,21 @@
 # Cumulocity widget plugin ![image](https://user-images.githubusercontent.com/89508319/211545879-ef79fd1c-801f-41de-bde9-7fa249d97910.png)
 
 
-This is the Cumulocity module federation plugin. Plugins can be developed like any Cumulocity application, but can be used at runtime by other applications. Therefore, they export an Angular module which can then be imported by any other application. The exports are defined in `package.json`:
+This is the Cumulocity module federation plugin created using c8ycli. This plugin can be used in Application Builder or Cockpit.The Compass Widget displays an animated compass direction based on the measurement data provided.
 
+
+
+## Please note that this plugin is in currently under BETA mode.
+  
+### Please choose Smart Map release based on Cumulocity/Application builder version:
+
+|APPLICATION BUILDER | CUMULOCITY | COMPASS WIDGET |
+|--------------------|------------|------------------|
+| 1.3.x              | >= 1011.x.x| 2.x.x            |
+| 1.2.x              | 1010.x.x   | 1.x.x            |  
+
+
+![compass-widget](https://user-images.githubusercontent.com/99970126/169800960-2ebf6492-a107-47ff-910e-1aaf635559de.PNG)
 ```
 "exports": [
   {
