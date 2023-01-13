@@ -52,7 +52,7 @@
   },
   "c8y": {
     "application": {
-      "name": "Cumulocity-Compass-Widget-Plugin",
+      "name": "Cumulocity Compass Widget Plugin",
       "description": "This Compass Widget is designed to display an animated compass direction based on the measurement data provided.",
       "contextPath": "compass-widget",
       "key": "compass-widget-application-key",
@@ -62,9 +62,12 @@
       "noAppSwitcher": true,
       "package": "plugin",
       "requiredPlatformVersion": ">=1016.0.0",
+      "icon": {
+        "class": "fa fw fa-compass"
+      },
       "exports": [
         {
-          "name": "Cumulocity-Compass-Widget-Plugin",
+          "name": "Cumulocity Compass Widget Plugin",
           "module": "CompassWidgetModule",
           "path": "./widget/compass-widget.module",
           "description": "This Compass Widget is designed to display an animated compass direction based on the measurement data provided."

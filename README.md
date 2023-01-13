@@ -19,7 +19,7 @@ This is the Cumulocity module federation plugin created using c8ycli. This plugi
 
 ## Features
 
-**Realtime:** Realtime direction updates from defined measurement
+**Realtime:** Realtime direction updates from defined measurement.
 
 ## Prerequisite
 
