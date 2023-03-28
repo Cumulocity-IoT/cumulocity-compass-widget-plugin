@@ -1,4 +1,4 @@
-# Compass Widget Plugin for Cumulocity [<img width="35" src="https://user-images.githubusercontent.com/32765455/211497905-561e9197-18b9-43d5-a023-071d3635f4eb.png"/>](https://github.com/SoftwareAG/cumulocity-compass-widget-plugin/releases/download/1.0.0/compass-widget-1.0.0.zip)
+# Compass Widget Plugin for Cumulocity [<img width="35" src="https://user-images.githubusercontent.com/32765455/211497905-561e9197-18b9-43d5-a023-071d3635f4eb.png"/>](https://github.com/SoftwareAG/cumulocity-compass-widget-plugin/releases/download/1.0.0/sag-ps-pkg-compass-widget-1.0.0.zip)
 
 
 This is the Cumulocity module federation plugin created using c8ycli. This plugin can be used in Application Builder or Cockpit.The Compass Widget displays an animated compass direction based on the measurement data provided.
@@ -26,7 +26,7 @@ This is the Cumulocity module federation plugin created using c8ycli. This plugi
 
 ### Runtime Widget Deployment?
 
-* This widget supports runtime deployment. Download [Runtime Binary](https://github.com/SoftwareAG/cumulocity-compass-widget-plugin/releases/download/1.0.0-/compass-widget-1.0.0.zip) and install via Administrations --> Ecosystems --> Applications --> Packages.
+* This widget supports runtime deployment. Download [Runtime Binary](https://github.com/SoftwareAG/cumulocity-compass-widget-plugin/releases/download/1.0.0/sag-ps-pkg-compass-widget-1.0.0.zip) and install via Administrations --> Ecosystems --> Applications --> Packages.
 
 
 ## Quickstart
