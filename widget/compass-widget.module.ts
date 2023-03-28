@@ -33,7 +33,7 @@ import {HttpClientModule} from "@angular/common/http";
         useValue: {
             id: 'global.presales.compass.widget',
             label: 'Compass',
-            description: 'Displays an animated compass direction based on the measurement data provided',
+            description: 'This Compass Widget is designed to display an animated compass direction based on the measurement data provided.',
             component: CompassWidget,
             configComponent: CompassWidgetConfig,
             previewImage: require("./previewImage.png")
