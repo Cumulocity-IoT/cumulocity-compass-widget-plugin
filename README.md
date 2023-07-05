@@ -10,7 +10,7 @@ This is the Cumulocity module federation plugin created using c8ycli. This plugi
 | 2.x.x               | >= 1016.x.x |	1.x.x          |
 
 
-![compass-widget](https://user-images.githubusercontent.com/99970126/169800960-2ebf6492-a107-47ff-910e-1aaf635559de.PNG)
+![compass](images/compass.png)
 
 
 ## Features
