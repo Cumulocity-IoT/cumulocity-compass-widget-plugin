@@ -5,7 +5,7 @@ This is the Cumulocity module federation plugin created using c8ycli. This plugi
 
 ### Please choose Compass Widget release based on Cumulocity/Application builder version:
 
-|APPLICATION BUILDER  | CUMULOCITY  | COMPASS WIDGET   |
+|APPLICATION BUILDER&nbsp;  | &nbsp;CUMULOCITY &nbsp; |&nbsp; COMPASS WIDGET &nbsp;  |
 |-------------------- |------------ |------------------|
 | 2.x.x               | >= 1016.x.x |	1.x.x          |
 
